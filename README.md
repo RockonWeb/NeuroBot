@@ -1,7 +1,7 @@
 # NeuroBot
 Telegram-bot for access to neural networks.
 
-This bot can response to your messages, images and stickers
+This bot can response to your messages, images and stickers(It's because I'm able to)
 
 I use ProxyAPI, but you can use OpenAI similar API's
 
