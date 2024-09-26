@@ -28,9 +28,9 @@ import time
 import emoji
 
 # ProxyAPI и Telegram токены
-PROXY_API_KEY = "sk-MLdSR7bQ42Hh7DQpMY7Q9f7Ot2sHwKUS"
-TELEGRAM_BOT_TOKEN = "6876506036:AAE3Jju6dCnI8SGu_D5WpK9OP6ODQJJJwUk"
-OPENAI_API_KEY = "sk-MLdSR7bQ42Hh7DQpMY7Q9f7Ot2sHwKUS"
+PROXY_API_KEY = "your_api"
+TELEGRAM_BOT_TOKEN = "uour__bot_token"
+OPENAI_API_KEY = "your-api
 
 # Инициализируем бота и OpenAI
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
